@@ -88,6 +88,15 @@
     background-color: rgba(255,159,10,255);
 }
 
-.corpo-tastiera{
-    
+.tastiera-2{
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 100px;
+}
+
+.numeri-speciali{
+    background-color: red;
+    height: 60px;
+    width: 60px;
+    margin: 8px;
 }
